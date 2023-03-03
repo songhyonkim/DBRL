@@ -1,3 +1,7 @@
+## Memo
+
+fgfs.exe --fdm=null --native-fdm=socket,in,60,localhost,5551,udp   --aircraft=f16-block-52    --multiplay=out,10,,5002 --multiplay=in,10,,5001 --callsign=Test1  --airport=RKSI --disable-terrasync  --disable-sound --disable-ai-traffic
+
 <div align="center">
   <h1>DBRL: A Gym <b>D</b>ogfighting Simulation <b>B</b>enchmark for <b>R</b>einforcement <b>L</b>earning Research</h1>
 
